@@ -1,4 +1,4 @@
-**# Unity-FPS-Multiplayer**  
+# Unity-FPS-Multiplayer  
 Multiplayer FPS game made using Unity and UNet.
 Inspired from various games, this is a multiplayer deathmatch format FPS with a custom maps.
 Completely made using free libraries and packages.
